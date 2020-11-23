@@ -20,8 +20,8 @@ requirements:
     - pip
     - python >=2.7
   run:
-    - mo-future 3.130.20302
-    - mo-imports 3.135.20303
+    - mo-future 3.147.20327
+    - mo-imports 3.149.20327
     - python >=2.7
 
 test:
