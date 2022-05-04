@@ -21,7 +21,7 @@ requirements:
     - python >=2.7
   run:
     - mo-future ==6.2.21303
-    - mo-imports ==7.169.22121
+    - mo-imports ==7.168.22121
     - python >=2.7
 
 test:
