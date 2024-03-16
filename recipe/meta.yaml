@@ -1,5 +1,5 @@
 {% set name = "mo-dots" %}
-{% set version = "9.562.24075" %}
+{% set version = "9.564.24076" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/mo-dots-{{ version }}.tar.gz
-  sha256: 6634193b0e5affc2521cdc816325a47d37889588150402d0cb60c212f8056208
+  sha256: 26fa2486876bb7396ce87e11d7ca88f16bc3e8e7707a75d5fc51154f299ead1f
 
 build:
   number: 0
